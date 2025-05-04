@@ -154,7 +154,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #b07219;width: 28.56562%;" class="progress-item"></span><span style="background-color: #3572A5;width: 25.88041%;" class="progress-item"></span><span style="background-color: #3178c6;width: 13.31764%;" class="progress-item"></span><span style="background-color: #c22d40;width: 12.62816%;" class="progress-item"></span><span style="background-color: #41b883;width: 7.65476%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 4.20154%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 2.41970%;" class="progress-item"></span><span style="background-color: #89e051;width: 1.28051%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.20896%;" class="progress-item"></span><span style="background-color: #724b3b;width: 0.75892%;" class="progress-item"></span><span style="background-color: #a52a22;width: 0.59038%;" class="progress-item"></span><span style="background-color: #663399;width: 0.59005%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.37215%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.29985%;" class="progress-item"></span><span style="background-color: #fcb32c;width: 0.22277%;" class="progress-item"></span><span style="background-color: #7e858d;width: 0.00791%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.00068%;" class="progress-item"></span>
+              <span style="background-color: #b07219;width: 27.26700%;" class="progress-item"></span><span style="background-color: #3572A5;width: 26.22831%;" class="progress-item"></span><span style="background-color: #3178c6;width: 13.49244%;" class="progress-item"></span><span style="background-color: #c22d40;width: 13.12096%;" class="progress-item"></span><span style="background-color: #41b883;width: 7.75996%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 4.25313%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 2.44895%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.30371%;" class="progress-item"></span><span style="background-color: #89e051;width: 1.25229%;" class="progress-item"></span><span style="background-color: #724b3b;width: 0.76810%;" class="progress-item"></span><span style="background-color: #663399;width: 0.59904%;" class="progress-item"></span><span style="background-color: #a52a22;width: 0.59751%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.37665%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.29780%;" class="progress-item"></span><span style="background-color: #fcb32c;width: 0.22546%;" class="progress-item"></span><span style="background-color: #7e858d;width: 0.00800%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.00069%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -176,7 +176,7 @@
                         Java
                     </span>
                     <span class="percent">
-                        28.57%
+                        27.27%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -195,7 +195,7 @@
                         Python
                     </span>
                     <span class="percent">
-                        25.88%
+                        26.23%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -214,7 +214,7 @@
                         TypeScript
                     </span>
                     <span class="percent">
-                        13.32%
+                        13.49%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
@@ -233,7 +233,7 @@
                         Scala
                     </span>
                     <span class="percent">
-                        12.63%
+                        13.12%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
@@ -252,7 +252,7 @@
                         Vue
                     </span>
                     <span class="percent">
-                        7.65%
+                        7.76%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
@@ -271,7 +271,7 @@
                         Kotlin
                     </span>
                     <span class="percent">
-                        4.20%
+                        4.25%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
@@ -290,29 +290,10 @@
                         JavaScript
                     </span>
                     <span class="percent">
-                        2.42%
+                        2.45%
                     </span>
             </li>
             <li style="animation-delay: 1050ms;">
-                    <svg xmlns="http://www.w3.org/2000/svg" 
-                         class="octicon" 
-                         style="fill:#89e051;"
-                         viewBox="0 0 16 16" 
-                         version="1.1" 
-                         width="16" 
-                         height="16">
-                            <path fill-rule="evenodd" 
-                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
-                            </path>
-                    </svg>
-                    <span class="lang">
-                        Shell
-                    </span>
-                    <span class="percent">
-                        1.28%
-                    </span>
-            </li>
-            <li style="animation-delay: 1200ms;">
                     <svg xmlns="http://www.w3.org/2000/svg" 
                          class="octicon" 
                          style="fill:#e34c26;"
@@ -328,7 +309,26 @@
                         HTML
                     </span>
                     <span class="percent">
-                        1.21%
+                        1.30%
+                    </span>
+            </li>
+            <li style="animation-delay: 1200ms;">
+                    <svg xmlns="http://www.w3.org/2000/svg" 
+                         class="octicon" 
+                         style="fill:#89e051;"
+                         viewBox="0 0 16 16" 
+                         version="1.1" 
+                         width="16" 
+                         height="16">
+                            <path fill-rule="evenodd" 
+                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
+                            </path>
+                    </svg>
+                    <span class="lang">
+                        Shell
+                    </span>
+                    <span class="percent">
+                        1.25%
                     </span>
             </li>
             <li style="animation-delay: 1350ms;">
@@ -347,29 +347,10 @@
                         Mustache
                     </span>
                     <span class="percent">
-                        0.76%
+                        0.77%
                     </span>
             </li>
             <li style="animation-delay: 1500ms;">
-                    <svg xmlns="http://www.w3.org/2000/svg" 
-                         class="octicon" 
-                         style="fill:#a52a22;"
-                         viewBox="0 0 16 16" 
-                         version="1.1" 
-                         width="16" 
-                         height="16">
-                            <path fill-rule="evenodd" 
-                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
-                            </path>
-                    </svg>
-                    <span class="lang">
-                        Jinja
-                    </span>
-                    <span class="percent">
-                        0.59%
-                    </span>
-            </li>
-            <li style="animation-delay: 1650ms;">
                     <svg xmlns="http://www.w3.org/2000/svg" 
                          class="octicon" 
                          style="fill:#663399;"
@@ -385,7 +366,26 @@
                         CSS
                     </span>
                     <span class="percent">
-                        0.59%
+                        0.60%
+                    </span>
+            </li>
+            <li style="animation-delay: 1650ms;">
+                    <svg xmlns="http://www.w3.org/2000/svg" 
+                         class="octicon" 
+                         style="fill:#a52a22;"
+                         viewBox="0 0 16 16" 
+                         version="1.1" 
+                         width="16" 
+                         height="16">
+                            <path fill-rule="evenodd" 
+                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
+                            </path>
+                    </svg>
+                    <span class="lang">
+                        Jinja
+                    </span>
+                    <span class="percent">
+                        0.60%
                     </span>
             </li>
             <li style="animation-delay: 1800ms;">
@@ -404,7 +404,7 @@
                         Go
                     </span>
                     <span class="percent">
-                        0.37%
+                        0.38%
                     </span>
             </li>
             <li style="animation-delay: 1950ms;">
@@ -442,7 +442,7 @@
                         MDX
                     </span>
                     <span class="percent">
-                        0.22%
+                        0.23%
                     </span>
             </li>
             <li style="animation-delay: 2250ms;">
